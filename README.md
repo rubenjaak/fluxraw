@@ -115,10 +115,6 @@ Common issues:
    - Check if you have access to the FLUX 1.1 API
    - Make sure your account is in good standing
 
-## License
-
-[Your chosen license]
-
 ## Credits
 
 - Black Forest Labs for the FLUX API
