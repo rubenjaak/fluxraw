@@ -2,6 +2,8 @@
 
 A ComfyUI custom node for Black Forest Labs' FLUX 1.1 [pro] API, supporting both regular and Ultra modes with optional Raw mode.
 
+![image](https://github.com/user-attachments/assets/8b7f871e-8e2d-4317-8525-c2edde12515e)
+
 ## Features
 
 - Support for FLUX 1.1 [pro] regular and Ultra modes
