@@ -50,7 +50,8 @@ BASE_URL=https://api.bfl.ml
 Example of a correctly formatted `config.ini`:
 ```ini
 [API]
-X_KEY = bfl_1234567890abcdef1234567890abcdef
+X_KEY=bfl_1234567890abcdef1234567890abcdef
+BASE_URL=https://api.bfl.ml
 ```
 
 3. Restart ComfyUI
