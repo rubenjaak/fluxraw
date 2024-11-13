@@ -33,13 +33,12 @@ git clone https://github.com/your-username/ComfyUI_Flux_1.1_RAW_API
    - Navigate to your profile settings
    - Copy your API key
 
-2. Create and configure your `config.ini`:
-   - Navigate to the root directory of the node
-   - Create a new file named `config.ini`
-   - Add your API key in this format:
+2. Open the file `config.ini` with text editor (inside the custom node)`
+   - Add your API key instead of: your_api_key_here:
 ```ini
 [API]
-X_KEY = your_bfl_api_key_here
+X_KEY=your_api_key_here
+BASE_URL=https://api.bfl.ml
 ```
 
 **Important Notes:**
