@@ -33,7 +33,7 @@ git clone https://github.com/your-username/ComfyUI_Flux_1.1_RAW_API
    - Navigate to your profile settings
    - Copy your API key
 
-2. Open the file `config.ini` with text editor (inside the custom node)`
+2. Open the file `config.ini` with text editor (inside the custom node folder)
    - Add your API key instead of: your_api_key_here:
 ```ini
 [API]
